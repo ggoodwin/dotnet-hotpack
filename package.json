@@ -1,0 +1,62 @@
+{
+  "name": "dotnet-hotpack",
+  "displayName": "DotNet C# Hotpack 2024",
+  "description": "Best DotNet and C# Extensions",
+  "icon": "icon.webp",
+  "galleryBanner": {
+    "color": "#0273D4",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "version": "1.0.0",
+  "publisher": "ggoodwin",
+  "preview": false,
+  "pricing": "Free",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "keywords": [
+    "DotNet",
+    "CSharp"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ggoodwin/dotnet-hotpack"
+  },
+  "homepage": "https://greggoodwin.com",
+  "bugs": {
+    "url": "https://github.com/ggoodwin/dotnet-hotpack/issues?q=label%3Abug"
+  },
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "extensionPack": [
+    "ms-dotnettools.vscode-dotnet-runtime",
+    "formulahendry.dotnet",
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.csdevkit",
+    "schneiderpat.aspnet-helper",
+    "ms-dotnettools.vscodeintellicode-csharp",
+    "k--kato.docomment",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "tintoy.msbuild-project-tools",
+    "patcx.vscode-nuget-gallery",
+    "42crunch.vscode-openapi",
+    "arjun.swagger-viewer",
+    "ply-ct.vscode-ply",
+    "stoplight.spectral",
+    "hbenl.vscode-test-explorer",
+    "formulahendry.dotnet-test-explorer"
+  ],
+  "__metadata": {
+    "publisherId": "3ea8aec6-eb0b-4a64-bf6a-f7675b86b043",
+    "publisherDisplayName": "Greg Goodwin",
+    "updated": true,
+    "isPreReleaseVersion": false
+  }
+}
