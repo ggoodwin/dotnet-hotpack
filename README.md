@@ -9,8 +9,6 @@
   </samp>
 </h3>
 
-<div align="center">
-
 #### Profiles
 
 [![greggoodwin](https://img.shields.io/badge/ggn.dev-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://ggn.sh)
@@ -22,6 +20,7 @@
 [![Messenger](https://img.shields.io/badge/Messenger-FF577B?style=for-the-badge&logo=messenger&logoColor=white)](https://ggn.sh/m)
 [![Telegram](https://img.shields.io/badge/Telegram-29A9EB?style=for-the-badge&logo=telegram&logoColor=white)](https://ggn.sh/wa)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ggn.sh/wa)
+
 </div>
 <br>
 

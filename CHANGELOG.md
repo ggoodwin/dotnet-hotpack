@@ -2,20 +2,22 @@
 
 All notable changes to this extension pack will be documented in this file.
 
-The format is based on [Keep a Changelog].
-This project adheres to [Semantic Versioning].
+The format is based on [Keep a Changelog][Keep a Changelog].
+This project adheres to [Semantic Versioning][Semantic Versioning].
 
-## [Unreleased]
+## [Unreleased][Unreleased]
 
 ### Changed
 
 - Nothing Yet
 
-## [1.0.0] - 2024-12-14
+## [1.0.1][1.0.1] - 2024-12-15
 
-### Initial Release
+### Changed
 
-- Added all basic files
+- Additional Extensions
+
+## [1.0.0][1.0.0] - 2024-12-14
 
 ### Added
 
@@ -33,18 +35,12 @@ This project adheres to [Semantic Versioning].
 - SECURITY.MD
 - TODO.MD
 
-### Changed
-
-- None
-
-### Removed
-
-- None
-
 <!-- Links -->
 [keep a changelog]: http://keepachangelog.com/
 [semantic versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Version -->
-[unreleased]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.0...develop
+
+[unreleased]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.1...develop
+[1.0.1]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/ggoodwin/dotnet-hotpack/tree/v1.0.0

@@ -8,7 +8,7 @@
     "theme": "dark"
   },
   "license": "SEE LICENSE IN LICENSE.md",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ggoodwin",
   "preview": false,
   "pricing": "Free",
@@ -50,8 +50,16 @@
     "arjun.swagger-viewer",
     "ply-ct.vscode-ply",
     "stoplight.spectral",
+    "ms-vscode.test-adapter-converter",
     "hbenl.vscode-test-explorer",
-    "formulahendry.dotnet-test-explorer"
+    "formulahendry.dotnet-test-explorer",
+    "connorshea.vscode-test-explorer-status-bar",
+    "adrianwilczynski.add-reference",
+    "adrianwilczynski.user-secrets",
+    "adrianwilczynski.asp-net-core-switcher",
+    "adrianwilczynski.namespace",
+    "fudge.auto-using",
+    "kreativ-software.csharpextensions"
   ],
   "__metadata": {
     "publisherId": "3ea8aec6-eb0b-4a64-bf6a-f7675b86b043",
