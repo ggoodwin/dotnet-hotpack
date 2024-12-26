@@ -8,7 +8,7 @@
     "theme": "dark"
   },
   "license": "SEE LICENSE IN LICENSE.md",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "ggoodwin",
   "preview": false,
   "pricing": "Free",
@@ -47,7 +47,6 @@
     "tintoy.msbuild-project-tools",
     "patcx.vscode-nuget-gallery",
     "42crunch.vscode-openapi",
-    "arjun.swagger-viewer",
     "ply-ct.vscode-ply",
     "stoplight.spectral",
     "ms-vscode.test-adapter-converter",
@@ -58,8 +57,9 @@
     "adrianwilczynski.user-secrets",
     "adrianwilczynski.asp-net-core-switcher",
     "adrianwilczynski.namespace",
-    "fudge.auto-using",
-    "kreativ-software.csharpextensions"
+    "kreativ-software.csharpextensions",
+    "editorconfig.editorconfig",
+    "doggy8088.netcore-editorconfiggenerator"
   ],
   "__metadata": {
     "publisherId": "3ea8aec6-eb0b-4a64-bf6a-f7675b86b043",
