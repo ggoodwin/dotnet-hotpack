@@ -1,6 +1,6 @@
 <div align="center">
  <h1><img alt="dotnet logo" src="https://raw.githubusercontent.com/ggoodwin/dotnet-hotpack/master/icon.webp" height="300" /><br />
-  DotNet C# Hotpack CurrentYear for VS Code
+  DotNet C# Hotpack 2025 for VS Code
  </h1>
 
 <h3 align="center">
@@ -29,13 +29,13 @@
 
 </div>
 
-# DotNet Hotpack CurrentYear for VS Code
+# DotNet Hotpack 2025 for VS Code
 
 This extension pack for Visual Studio Code adds extensions that are useful for dotnet development.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
-[DotNet Hotpack CurrentYear on the VS Store](https://marketplace.visualstudio.com/items?itemName=ggoodwin.dotnet-hotpack)
+[DotNet Hotpack 2025 on the VS Store](https://marketplace.visualstudio.com/items?itemName=ggoodwin.dotnet-hotpack)
 
 You can check out the list below.
 
