@@ -1,6 +1,6 @@
 <div align="center">
  <h1><img alt="dotnet logo" src="https://raw.githubusercontent.com/ggoodwin/dotnet-hotpack/master/icon.webp" height="300" /><br />
-  DotNet C# Hotpack 2025 for VS Code
+  DotNet C# Hotpack CurrentYear for VS Code
  </h1>
 
 <h3 align="center">
@@ -29,21 +29,21 @@
 
 </div>
 
-# DotNet Hotpack 2025 for VS Code
+# DotNet Hotpack CurrentYear for VS Code
 
 This extension pack for Visual Studio Code adds extensions that are useful for dotnet development.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
-[DotNet Hotpack 2025 on the VS Store](https://marketplace.visualstudio.com/items?itemName=ggoodwin.dotnet-hotpack)
+[DotNet Hotpack CurrentYear on the VS Store](https://marketplace.visualstudio.com/items?itemName=ggoodwin.dotnet-hotpack)
 
 You can check out the list below.
 
 ## Extensions Included
 
-This extension pack includes the following extensions:
+<details>
+  <summary><h3>This extension pack includes the following extensions (click to view)</h3></summary>
 
-| Extension                | Stats                                                                                                                                                                     |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | C#         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-dotnettools.csharp)](https://img.shields.io/visual-studio-marketplace/i/ms-dotnettools.csharp)                 |
 | .NET Install Tool         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-dotnettools.vscode-dotnet-runtime)](https://img.shields.io/visual-studio-marketplace/i/ms-dotnettools.vscode-dotnet-runtime)                 |
@@ -71,5 +71,7 @@ This extension pack includes the following extensions:
 | Peak Hidden Files        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/adrianwilczynski.toggle-hidden)](https://img.shields.io/visual-studio-marketplace/i/adrianwilczynski.toggle-hidden)                 |
 | .NET Core EditorConfig Gen        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/doggy8088.netcore-editorconfiggenerator)](https://img.shields.io/visual-studio-marketplace/i/doggy8088.netcore-editorconfiggenerator)                 |
 | Better Folding        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/mohammadbaqer.better-folding)](https://img.shields.io/visual-studio-marketplace/i/mohammadbaqer.better-folding)                 |
+
+</details>
 
 **Enjoy!**
