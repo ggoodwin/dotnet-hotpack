@@ -29,6 +29,7 @@ $RECYCLE.BIN/
 # ------------
 /.vs
 *.sln.DotSettings.user
+# Visual Studio performance session files
 *.psess
 *.vsp
 *.vspx
