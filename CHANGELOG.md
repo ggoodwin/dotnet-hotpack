@@ -5,6 +5,12 @@ All notable changes to this extension pack will be documented in this file.
 The format is based on [Keep a Changelog][Keep a Changelog].
 This project adheres to [Semantic Versioning][Semantic Versioning].
 
+## [Unreleased]
+
+### Added
+
+- Added Workspace File
+
 ## [1.0.2][1.0.2] - 2024-12-26
 
 ### Added
@@ -47,6 +53,7 @@ This project adheres to [Semantic Versioning][Semantic Versioning].
 
 <!-- Version -->
 
+[Unreleased]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.2...develop
 [1.0.2]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/ggoodwin/dotnet-hotpack/tree/v1.0.0
