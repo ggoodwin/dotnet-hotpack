@@ -5,7 +5,18 @@ All notable changes to this extension pack will be documented in this file.
 The format is based on [Keep a Changelog][Keep a Changelog].
 This project adheres to [Semantic Versioning][Semantic Versioning].
 
-## [Unreleased]
+## [Unreleased][Unreleased]
+
+### Added
+
+- Testing
+
+## [1.0.4][1.0.4] - 2025-04-26
+
+### Changed
+
+- Removed Year from the title
+- Reworked extension list
 
 ## [1.0.3][1.0.3] - 2025-03-01
 
@@ -44,6 +55,9 @@ This project adheres to [Semantic Versioning][Semantic Versioning].
 
 ### Changed
 
+- Removed Year from Name
+- Updated extension list
+
 - Additional Extensions
 
 ## [1.0.0][1.0.0] - 2024-12-14
@@ -69,7 +83,8 @@ This project adheres to [Semantic Versioning][Semantic Versioning].
 
 <!-- Version -->
 
-[Unreleased]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.3...master
+[Unreleased]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.4...master
+[1.0.4]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.3...v1.0.4
 [1.0.3]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.2...v1.0.3
 [1.0.2]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/ggoodwin/dotnet-hotpack/compare/v1.0.0...v1.0.1
